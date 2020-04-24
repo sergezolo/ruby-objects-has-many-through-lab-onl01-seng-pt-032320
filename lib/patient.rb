@@ -1,4 +1,4 @@
-class Genre
+class Patient
   
   attr_accessor :name
   
